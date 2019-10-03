@@ -1,7 +1,7 @@
 # Multilabel Text Classification
 ## Predicting Tags for Stack Overflow
 
-Name: Tai Chun Long
+Name: Tai Chun Long <br>
 Email: cltai9145@gmail.com
 
 ## Description
