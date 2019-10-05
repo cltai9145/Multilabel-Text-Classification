@@ -1,8 +1,6 @@
 # Multilabel Text Classification
 ## Predicting Tags for Stack Overflow
 
-## Description
-
 The question tests the skills to manipulate large dataset from the csv file. The task is to predict the tags (a.k.a. keywords, topics, summaries) given only the question text and its title. The dataset contains content containing a mix of both technical and non-technical questions. The data file `Train.csv` can be downloaded from [
 Facebook Recruiting III - Keyword Extraction](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data).
 
